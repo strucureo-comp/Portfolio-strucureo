@@ -98,38 +98,56 @@ html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-family:sans-se
   }
 
   .hero-title-italic {
-    display: block;
-    width: fit-content;
-    position: relative;
-    left: 0;
-    white-space: nowrap;
-    pointer-events: none;
-    z-index: 2;
-    transform-origin: center;
-    will-change: transform, opacity;
+    --glitch-opacity: 0;
+    --glitch-offset-before: 0px;
+    --glitch-offset-after: 0px;
+    --glitch-skew: 0deg;
+    --glitch-scale: 1;
   }
 
-  .hero-title-italic::before,
-  .hero-title-italic::after {
-    content: attr(data-text);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    mix-blend-mode: difference;
-    opacity: var(--glitch-opacity);
-    pointer-events: none;
+  @media (min-width: 992px) {
+    .hero-title-italic {
+      display: block;
+      width: fit-content;
+      position: relative;
+      left: 0;
+      white-space: nowrap;
+      pointer-events: none;
+      z-index: 2;
+      transform-origin: center;
+      will-change: transform, opacity;
+    }
+
+    .hero-title-italic::before,
+    .hero-title-italic::after {
+      content: attr(data-text);
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      mix-blend-mode: difference;
+      opacity: var(--glitch-opacity, 0);
+      pointer-events: none;
+    }
+
+    .hero-title-italic::before {
+      color: white;
+      transform: translateX(var(--glitch-offset-before)) skewX(var(--glitch-skew)) scaleX(var(--glitch-scale));
+    }
+
+    .hero-title-italic::after {
+      color: black;
+      transform: translateX(var(--glitch-offset-after)) skewX(calc(var(--glitch-skew) * -1)) scaleX(var(--glitch-scale));
+    }
   }
 
-  .hero-title-italic::before {
-    color: white;
-    transform: translateX(var(--glitch-offset-before)) skewX(var(--glitch-skew)) scaleX(var(--glitch-scale));
-  }
-
-  .hero-title-italic::after {
-    color: black;
-    transform: translateX(var(--glitch-offset-after)) skewX(calc(var(--glitch-skew) * -1)) scaleX(var(--glitch-scale));
+  /* MOBILE: Hide glitch pseudo-elements completely */
+  @media (max-width: 991px) {
+    .hero-title-italic::before,
+    .hero-title-italic::after {
+      display: none !important;
+    }
   }
   
   @media (width > 992px) {
@@ -190,6 +208,12 @@ html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-family:sans-se
   transform: scale(calc(100cqw / 1280));
   transform-origin: top left;
   will-change: transform;
+}
+
+/* MOBILE: Hide iframes on mobile for performance, show background-image fallback */
+@media (max-width: 991px) {
+  .hero-case-iframe { display: none !important; }
+  .hero-case-image { background-size: cover; background-position: top center; }
 }
 
 /* PERFORMANCE: Skip rendering off-screen sections */
