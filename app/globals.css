@@ -210,20 +210,9 @@ html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-family:sans-se
   will-change: transform;
 }
 
-/* MOBILE: Hide iframes on mobile for performance, show background-image fallback */
+/* MOBILE: Fix background sizing */
 @media (max-width: 991px) {
-  .hero-case-iframe { display: none !important; }
   .hero-case-image { background-size: cover; background-position: top center; }
-}
-
-/* PERFORMANCE: Skip rendering off-screen sections */
-.works-wrapper,
-.carousel-wrapper,
-.about-wrapper,
-.services-wrapper,
-.footer {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 800px;
 }
 
 /* PERFORMANCE: Reduce paint complexity */
