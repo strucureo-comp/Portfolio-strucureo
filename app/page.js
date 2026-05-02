@@ -201,7 +201,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right works-right-first">
   <a aria-label="The Simple Krew Website" href="https://thesimplekrew.com/" target="_blank" class="case-link first w-inline-block">
-    <img src="https://api.microlink.io/?url=https://thesimplekrew.com/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="The Simple Krew homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://thesimplekrew.com/" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -221,7 +221,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="Adroit Designs Website" href="https://www.adroitdesigns.in/" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://www.adroitdesigns.in/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="Adroit Designs homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://www.adroitdesigns.in/" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -241,7 +241,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="Mixmasters Club Website" href="https://mixmasters.club/" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://mixmasters.club/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="Mixmasters Club homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://mixmasters.club/" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -261,7 +261,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="Welford LC Website" href="https://www.welfordlc.live/" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://www.welfordlc.live/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="Welford LC homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://www.welfordlc.live/" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -281,7 +281,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="Open To Work Website" href="https://www.opentoowork.tech/" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://www.opentoowork.tech/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="Open To Work homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><img src="https://api.microlink.io/?url=https://www.opentoowork.tech/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="Open To Work homepage screenshot" style="width:100%;height:100%;object-fit:cover;object-position:top;"/></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -301,7 +301,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="System Steel Engg Website" href="https://systemsteelengg.com/" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://systemsteelengg.com/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="System Steel Engg homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://systemsteelengg.com/" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -321,7 +321,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="City Pro Drivers Website" href="https://www.cityprodrivers.com/" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://www.cityprodrivers.com/&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="City Pro Drivers homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://www.cityprodrivers.com/" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div><div class="content works-content">
@@ -341,7 +341,7 @@ export default function Page() {
 <div class="line"></div>
 <div class="content-right">
   <a aria-label="Garage V28 Website" href="https://garagev28.vercel.app/Home" target="_blank" class="case-link w-inline-block">
-    <img src="https://api.microlink.io/?url=https://garagev28.vercel.app/Home&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&device=desktop&viewport.width=1280&viewport.height=800" loading="lazy" alt="Garage V28 homepage screenshot" class="hero-case-image"/>
+    <div class="hero-case-image"><iframe data-src="https://garagev28.vercel.app/Home" class="hero-case-iframe" scrolling="no"></iframe></div>
   </a>
 </div>
 </div></section>
