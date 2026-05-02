@@ -387,25 +387,19 @@ export default function Page() {
                     Trusted by startups and agencies across India, the US, and the UAE.
                   </div>
               </div>
-              <div class="socials"><a aria-label="Contra" href="https://contra.com/kedavvra" target="_blank"
+              <div class="socials"><a aria-label="Website" href="https://www.strucureo.com/en-US" target="_blank"
                   class="social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%"
                     viewBox="0 0 20 20" fill="none">
                     <path
                       d="M10.7246 9.42029H19.7826C19.9275 9.42029 20 9.42029 20 9.27536V8.98551C20 8.91304 20 8.84058 19.8551 8.84058C15.5797 7.68116 12.2464 4.42029 11.1594 0.144928L10.8696 0H10.6522C10.5797 0 10.5072 0.0724638 10.5072 0.217391V9.27536C10.5072 9.34783 10.5072 9.42029 10.6522 9.42029H10.7246ZM10.7246 20H11.0145L11.1594 19.8551C12.3188 15.5797 15.5797 12.2464 19.8551 11.1594L20 10.942V10.7246C20 10.6522 19.9275 10.5072 19.7826 10.5072H10.7246L10.5797 10.7246V19.7826C10.5797 19.9275 10.5797 20 10.7246 20ZM9.05797 20H9.27536C9.34783 20 9.42029 19.9275 9.42029 19.7826V10.7246C9.42029 10.6522 9.42029 10.5072 9.27536 10.5072H0.217391C0.0724638 10.5072 0 10.6522 0 10.7246V11.0145C0 11.087 0 11.1594 0.144928 11.1594C4.42029 12.2464 7.75362 15.5797 8.84058 19.8551L9.05797 20ZM0.217391 9.42029H9.27536C9.34783 9.42029 9.42029 9.42029 9.42029 9.27536V0.217391C9.42029 0.0724638 9.42029 0 9.27536 0H8.98551C8.91304 0 8.84058 0 8.84058 0.144928C7.68116 4.34783 4.34783 7.75362 0.144928 8.84058L0 9.05797V9.27536C0 9.34783 0.0724638 9.42029 0.217391 9.42029Z"
                       fill="black"></path>
-                  </svg></a><a aria-label="Dribbble" href="https://dribbble.com/Strucureo" target="_blank"
-                  class="social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%"
-                    viewBox="0 0 20 20" fill="none">
-                    <path fill-rule="evenodd" clip-rule="evenodd"
-                      d="M10 0C4.47939 0 0 4.47939 0 10C0 15.5206 4.47939 20 10 20C15.5098 20 20 15.5206 20 10C20 4.47939 15.5098 0 10 0ZM16.6052 4.60954C17.7983 6.06291 18.5141 7.91756 18.5358 9.92406C18.2538 9.86987 15.4338 9.295 12.5922 9.65294C12.5271 9.51194 12.4729 9.36006 12.4078 9.20825C12.2343 8.79613 12.0391 8.37312 11.8438 7.97181C14.9891 6.692 16.4208 4.84816 16.6052 4.60954ZM10 1.47506C12.1692 1.47506 14.154 2.28851 15.6616 3.62256C15.5097 3.83948 14.2191 5.56399 11.1822 6.70281C9.78306 4.13232 8.23213 2.0282 7.9935 1.70282C8.63338 1.55097 9.30588 1.47506 10 1.47506ZM6.36662 2.27766C6.59437 2.58134 8.11281 4.69631 9.53363 7.21256C5.5423 8.2755 2.01736 8.25381 1.63774 8.25381C2.19089 5.60738 3.98047 3.40564 6.36662 2.27766ZM1.45336 10.0109C1.45336 9.92406 1.45336 9.83731 1.45336 9.75056C1.82213 9.76137 5.96529 9.81562 10.2278 8.53581C10.4773 9.013 10.705 9.50106 10.9219 9.98913C10.8134 10.0217 10.6941 10.0542 10.5857 10.0867C6.18221 11.5076 3.83948 15.3904 3.64425 15.7158C2.2885 14.2082 1.45336 12.2018 1.45336 10.0109ZM10 18.5466C8.026 18.5466 6.20391 17.8742 4.76139 16.7462C4.91323 16.4317 6.64856 13.0911 11.4642 11.41C11.4859 11.3991 11.4968 11.3991 11.5184 11.3883C12.7223 14.5011 13.2104 17.1149 13.3406 17.8633C12.3102 18.308 11.1822 18.5466 10 18.5466ZM14.7614 17.0824C14.6746 16.5618 14.2191 14.0673 13.1019 10.9978C15.7809 10.5748 18.1236 11.269 18.4165 11.3666C18.0478 13.7419 16.6811 15.7917 14.7614 17.0824Z"
-                      fill="black"></path>
-                  </svg></a><a aria-label="X" href="https://x.com/kedavrio" target="_blank"
+                  </svg></a><a aria-label="X" href="https://x.com/strucureo" target="_blank"
                   class="social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%"
                     viewBox="0 0 20 20" fill="none">
                     <path
                       d="M15.2718 1.58667H18.0831L11.9413 8.60625L19.1666 18.1583H13.5093L9.07828 12.365L4.00821 18.1583H1.19528L7.76445 10.6501L0.833252 1.58667H6.63418L10.6394 6.88195L15.2718 1.58667ZM14.2852 16.4757H15.8429L5.78775 3.18095H4.11614L14.2852 16.4757Z"
                       fill="black"></path>
-                  </svg></a><a aria-label="Instagram" href="https://www.instagram.com/Strucureo/" target="_blank"
+                  </svg></a><a aria-label="Instagram" href="https://www.instagram.com/strucureo/" target="_blank"
                   class="social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%"
                     viewBox="0 0 20 20" fill="none">
                     <g clip-path="url(#clip0_157_184)">
@@ -419,7 +413,7 @@ export default function Page() {
                         d="M16.5391 4.66016C16.5391 5.32422 16 5.85938 15.3398 5.85938C14.6758 5.85938 14.1406 5.32031 14.1406 4.66016C14.1406 3.99609 14.6797 3.46094 15.3398 3.46094C16 3.46094 16.5391 4 16.5391 4.66016Z"
                         fill="black"></path>
                     </g>
-                  </svg></a><a aria-label="LinkedIn" href="https://www.linkedin.com/in/filip-legierski-5a5654147/"
+                  </svg></a><a aria-label="LinkedIn" href="https://www.linkedin.com/company/strucureo/"
                   target="_blank" class="social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg"
                     width="100%" viewBox="0 0 20 20" fill="none">
                     <g clip-path="url(#clip0_157_185)">
@@ -572,11 +566,10 @@ export default function Page() {
                   d="M5 12h14m-6 6l6-6m-6-6l6 6"></path>
               </svg>
             </div>
-            <div class="footer-socials"><a href="https://contra.com/kedavvra" target="_blank"
-                class="footer-social">Contra</a><a href="https://dribbble.com/Strucureo" target="_blank"
-                class="footer-social">Dribbble</a><a href="https://x.com/kedavrio" target="_blank"
-                class="footer-social">X</a><a href="https://www.instagram.com/Strucureo/" target="_blank"
-                class="footer-social">Instagram</a><a href="https://www.linkedin.com/in/filip-legierski-5a5654147/"
+            <div class="footer-socials"><a href="https://www.strucureo.com/en-US" target="_blank"
+                class="footer-social">Website</a><a href="https://x.com/strucureo" target="_blank"
+                class="footer-social">X</a><a href="https://www.instagram.com/strucureo/" target="_blank"
+                class="footer-social">Instagram</a><a href="https://www.linkedin.com/company/strucureo/"
                 target="_blank" class="footer-social">LinkedIn</a></div>
           </div>
         </div>
