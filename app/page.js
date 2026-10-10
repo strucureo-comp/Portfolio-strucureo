@@ -357,7 +357,7 @@ export default function Page() {
         </div>
       </div>
       <div class="w-layout-blockcontainer dribbble-swiper swiper w-container">
-        <div class="dribbble-track swiper-wrapper"><a aria-label="Label Placeholder" href="#"
+        <div class="dribbble-track swiper-wrapper"><a aria-label="Selected work" href="#"
             class="dribbble-case swiper-slide w-inline-block"><img
               src="https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy"
               alt="" class="dribbble-image" /></a></div>
@@ -387,7 +387,7 @@ export default function Page() {
                     Trusted by startups and agencies across India, the US, and the UAE.
                   </div>
               </div>
-              <div class="socials"><a aria-label="Website" href="https://www.strucureo.com/en-US" target="_blank"
+              <div class="socials"><a aria-label="Website" href="https://www.strucureo.com" target="_blank"
                   class="social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%"
                     viewBox="0 0 20 20" fill="none">
                     <path
@@ -566,7 +566,7 @@ export default function Page() {
                   d="M5 12h14m-6 6l6-6m-6-6l6 6"></path>
               </svg>
             </div>
-            <div class="footer-socials"><a href="https://www.strucureo.com/en-US" target="_blank"
+            <div class="footer-socials"><a href="https://www.strucureo.com" target="_blank"
                 class="footer-social">Website</a><a href="https://x.com/strucureo" target="_blank"
                 class="footer-social">X</a><a href="https://www.instagram.com/strucureo/" target="_blank"
                 class="footer-social">Instagram</a><a href="https://www.linkedin.com/company/strucureo/"
