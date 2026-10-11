@@ -576,22 +576,22 @@ export default function Page() {
       </div>
       <div class="bar black bottom">
         <div class="bar-track">
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
-          <div class="bar-track-item">All rights resevred. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
+          <div class="bar-track-item">All rights reserved. 2026. / Strucureo.com</div>
         </div>
       </div>
     </div>
