@@ -144,7 +144,7 @@ export default function Page() {
           <div class="nav-menu-container"><a id="menu-button" href="#" class="menu-button w-button">Menu</a>
             <div id="nav-menu" class="nav-menu"><a href="#works" class="nav-button w-nav-link">Works</a><a href="#about"
                 class="nav-button w-nav-link">About</a><a href="#services" class="nav-button w-nav-link">Services</a><a
-                href="#footer" class="nav-button w-nav-link">Hire me</a></div>
+                href="#footer" class="nav-button w-nav-link">Start a project</a></div>
           </div>
         </div>
       </div>
